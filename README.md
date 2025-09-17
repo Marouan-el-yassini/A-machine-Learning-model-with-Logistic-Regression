@@ -112,18 +112,3 @@ pip install pandas scikit-learn
 ```
 
 ---
-
-## Usage
-
-1. Copy either code block into a `.py` file.
-2. Run with Python:
-
-```bash
-python your_script.py
-```
-
----
-
-## License
-
-This project is provided for educational purposes.
